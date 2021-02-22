@@ -1,0 +1,1 @@
+export const RATES_UPDATED = 'RATES_UPDATED';
